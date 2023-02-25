@@ -1,0 +1,702 @@
+0 to 1 path not found
+0 to 2 path not found
+0 to 3 path not found
+0 to 4 path not found
+0 to 5 path not found
+0 to 6 path not found
+(0 18 7) 47
+(0 18 7 15 9 12 17 8) 124
+(0 18 7 15 9) 95
+0 to 10 path not found
+0 to 11 path not found
+(0 18 7 15 9 12) 92
+0 to 13 path not found
+0 to 14 path not found
+(0 18 7 15) 77
+0 to 16 path not found
+(0 18 7 15 9 12 17) 107
+(0 18) -1
+0 to 19 path not found
+(0 18 7 15 9 12 17 8 20) 157
+0 to 21 path not found
+0 to 22 path not found
+0 to 23 path not found
+0 to 24 path not found
+0 to 25 path not found
+0 to 26 path not found
+1 to 0 path not found
+(1 23 24 26 5 13 2) 173
+1 to 3 path not found
+1 to 4 path not found
+(1 23 24 26 5) 94
+1 to 6 path not found
+1 to 7 path not found
+(1 23 24 26 5 13 2 15 9 12 17 8) 221
+(1 23 24 26 5 13 2 15 9) 192
+1 to 10 path not found
+1 to 11 path not found
+(1 23 24 26 5 13 2 15 9 12) 189
+(1 23 24 26 5 13) 127
+1 to 14 path not found
+(1 23 24 26 5 13 2 15) 174
+1 to 16 path not found
+(1 23 24 26 5 13 2 15 9 12 17) 204
+1 to 18 path not found
+1 to 19 path not found
+(1 23 24 26 5 13 2 15 9 12 17 8 20) 254
+1 to 21 path not found
+1 to 22 path not found
+(1 23) 39
+(1 23 24) 30
+1 to 25 path not found
+(1 23 24 26) 54
+2 to 0 path not found
+2 to 1 path not found
+2 to 3 path not found
+2 to 4 path not found
+2 to 5 path not found
+2 to 6 path not found
+2 to 7 path not found
+(2 15 9 12 17 8) 48
+(2 15 9) 19
+2 to 10 path not found
+2 to 11 path not found
+(2 15 9 12) 16
+2 to 13 path not found
+2 to 14 path not found
+(2 15) 1
+2 to 16 path not found
+(2 15 9 12 17) 31
+2 to 18 path not found
+2 to 19 path not found
+(2 15 9 12 17 8 20) 81
+2 to 21 path not found
+2 to 22 path not found
+2 to 23 path not found
+2 to 24 path not found
+2 to 25 path not found
+2 to 26 path not found
+3 to 0 path not found
+3 to 1 path not found
+3 to 2 path not found
+(3 4) 39
+3 to 5 path not found
+3 to 6 path not found
+3 to 7 path not found
+(3 4 12 17 8) 70
+(3 4 12 17 8 20 15 9) 122
+3 to 10 path not found
+3 to 11 path not found
+(3 4 12) 38
+3 to 13 path not found
+3 to 14 path not found
+(3 4 12 17 8 20 15) 104
+3 to 16 path not found
+(3 4 12 17) 53
+3 to 18 path not found
+3 to 19 path not found
+(3 4 12 17 8 20) 103
+3 to 21 path not found
+3 to 22 path not found
+3 to 23 path not found
+3 to 24 path not found
+3 to 25 path not found
+3 to 26 path not found
+4 to 0 path not found
+4 to 1 path not found
+4 to 2 path not found
+4 to 3 path not found
+4 to 5 path not found
+4 to 6 path not found
+4 to 7 path not found
+(4 12 17 8) 31
+(4 12 17 8 20 15 9) 83
+4 to 10 path not found
+4 to 11 path not found
+(4 12) -1
+4 to 13 path not found
+4 to 14 path not found
+(4 12 17 8 20 15) 65
+4 to 16 path not found
+(4 12 17) 14
+4 to 18 path not found
+4 to 19 path not found
+(4 12 17 8 20) 64
+4 to 21 path not found
+4 to 22 path not found
+4 to 23 path not found
+4 to 24 path not found
+4 to 25 path not found
+4 to 26 path not found
+5 to 0 path not found
+5 to 1 path not found
+(5 13 2) 79
+5 to 3 path not found
+5 to 4 path not found
+5 to 6 path not found
+5 to 7 path not found
+(5 13 2 15 9 12 17 8) 127
+(5 13 2 15 9) 98
+5 to 10 path not found
+5 to 11 path not found
+(5 13 2 15 9 12) 95
+(5 13) 33
+5 to 14 path not found
+(5 13 2 15) 80
+5 to 16 path not found
+(5 13 2 15 9 12 17) 110
+5 to 18 path not found
+5 to 19 path not found
+(5 13 2 15 9 12 17 8 20) 160
+5 to 21 path not found
+5 to 22 path not found
+5 to 23 path not found
+5 to 24 path not found
+5 to 25 path not found
+5 to 26 path not found
+6 to 0 path not found
+6 to 1 path not found
+6 to 2 path not found
+6 to 3 path not found
+6 to 4 path not found
+6 to 5 path not found
+6 to 7 path not found
+(6 10 9 12 17 8) 75
+(6 10 9) 46
+(6 10) 6
+6 to 11 path not found
+(6 10 9 12) 43
+6 to 13 path not found
+6 to 14 path not found
+(6 10 9 12 17 8 20 15) 109
+6 to 16 path not found
+(6 10 9 12 17) 58
+6 to 18 path not found
+6 to 19 path not found
+(6 10 9 12 17 8 20) 108
+6 to 21 path not found
+6 to 22 path not found
+6 to 23 path not found
+6 to 24 path not found
+6 to 25 path not found
+6 to 26 path not found
+7 to 0 path not found
+7 to 1 path not found
+7 to 2 path not found
+7 to 3 path not found
+7 to 4 path not found
+7 to 5 path not found
+7 to 6 path not found
+(7 15 9 12 17 8) 77
+(7 15 9) 48
+7 to 10 path not found
+7 to 11 path not found
+(7 15 9 12) 45
+7 to 13 path not found
+7 to 14 path not found
+(7 15) 30
+7 to 16 path not found
+(7 15 9 12 17) 60
+7 to 18 path not found
+7 to 19 path not found
+(7 15 9 12 17 8 20) 110
+7 to 21 path not found
+7 to 22 path not found
+7 to 23 path not found
+7 to 24 path not found
+7 to 25 path not found
+7 to 26 path not found
+8 to 0 path not found
+8 to 1 path not found
+8 to 2 path not found
+8 to 3 path not found
+8 to 4 path not found
+8 to 5 path not found
+8 to 6 path not found
+8 to 7 path not found
+(8 20 15 9) 52
+8 to 10 path not found
+8 to 11 path not found
+(8 20 15 9 12) 49
+8 to 13 path not found
+8 to 14 path not found
+(8 20 15) 34
+8 to 16 path not found
+(8 20 15 9 12 17) 64
+8 to 18 path not found
+8 to 19 path not found
+(8 20) 33
+8 to 21 path not found
+8 to 22 path not found
+8 to 23 path not found
+8 to 24 path not found
+8 to 25 path not found
+8 to 26 path not found
+9 to 0 path not found
+9 to 1 path not found
+9 to 2 path not found
+9 to 3 path not found
+9 to 4 path not found
+9 to 5 path not found
+9 to 6 path not found
+9 to 7 path not found
+(9 12 17 8) 29
+9 to 10 path not found
+9 to 11 path not found
+(9 12) -3
+9 to 13 path not found
+9 to 14 path not found
+(9 12 17 8 20 15) 63
+9 to 16 path not found
+(9 12 17) 12
+9 to 18 path not found
+9 to 19 path not found
+(9 12 17 8 20) 62
+9 to 21 path not found
+9 to 22 path not found
+9 to 23 path not found
+9 to 24 path not found
+9 to 25 path not found
+9 to 26 path not found
+10 to 0 path not found
+10 to 1 path not found
+10 to 2 path not found
+10 to 3 path not found
+10 to 4 path not found
+10 to 5 path not found
+10 to 6 path not found
+10 to 7 path not found
+(10 9 12 17 8) 69
+(10 9) 40
+10 to 11 path not found
+(10 9 12) 37
+10 to 13 path not found
+10 to 14 path not found
+(10 9 12 17 8 20 15) 103
+10 to 16 path not found
+(10 9 12 17) 52
+10 to 18 path not found
+10 to 19 path not found
+(10 9 12 17 8 20) 102
+10 to 21 path not found
+10 to 22 path not found
+10 to 23 path not found
+10 to 24 path not found
+10 to 25 path not found
+10 to 26 path not found
+(11 0) 21
+11 to 1 path not found
+11 to 2 path not found
+11 to 3 path not found
+11 to 4 path not found
+11 to 5 path not found
+11 to 6 path not found
+(11 0 18 7) 68
+(11 0 18 7 15 9 12 17 8) 145
+(11 0 18 7 15 9) 116
+11 to 10 path not found
+(11 0 18 7 15 9 12) 113
+11 to 13 path not found
+11 to 14 path not found
+(11 0 18 7 15) 98
+11 to 16 path not found
+(11 0 18 7 15 9 12 17) 128
+(11 0 18) 20
+11 to 19 path not found
+(11 0 18 7 15 9 12 17 8 20) 178
+11 to 21 path not found
+11 to 22 path not found
+11 to 23 path not found
+11 to 24 path not found
+11 to 25 path not found
+11 to 26 path not found
+12 to 0 path not found
+12 to 1 path not found
+12 to 2 path not found
+12 to 3 path not found
+12 to 4 path not found
+12 to 5 path not found
+12 to 6 path not found
+12 to 7 path not found
+(12 17 8) 32
+(12 17 8 20 15 9) 84
+12 to 10 path not found
+12 to 11 path not found
+12 to 13 path not found
+12 to 14 path not found
+(12 17 8 20 15) 66
+12 to 16 path not found
+(12 17) 15
+12 to 18 path not found
+12 to 19 path not found
+(12 17 8 20) 65
+12 to 21 path not found
+12 to 22 path not found
+12 to 23 path not found
+12 to 24 path not found
+12 to 25 path not found
+12 to 26 path not found
+13 to 0 path not found
+13 to 1 path not found
+(13 2) 46
+13 to 3 path not found
+13 to 4 path not found
+13 to 5 path not found
+13 to 6 path not found
+13 to 7 path not found
+(13 2 15 9 12 17 8) 94
+(13 2 15 9) 65
+13 to 10 path not found
+13 to 11 path not found
+(13 2 15 9 12) 62
+13 to 14 path not found
+(13 2 15) 47
+13 to 16 path not found
+(13 2 15 9 12 17) 77
+13 to 18 path not found
+13 to 19 path not found
+(13 2 15 9 12 17 8 20) 127
+13 to 21 path not found
+13 to 22 path not found
+13 to 23 path not found
+13 to 24 path not found
+13 to 25 path not found
+13 to 26 path not found
+14 to 0 path not found
+14 to 1 path not found
+(14 24 26 5 13 2) 165
+14 to 3 path not found
+14 to 4 path not found
+(14 24 26 5) 86
+14 to 6 path not found
+14 to 7 path not found
+(14 24 26 5 13 2 15 9 12 17 8) 213
+(14 24 26 5 13 2 15 9) 184
+14 to 10 path not found
+14 to 11 path not found
+(14 24 26 5 13 2 15 9 12) 181
+(14 24 26 5 13) 119
+(14 24 26 5 13 2 15) 166
+14 to 16 path not found
+(14 24 26 5 13 2 15 9 12 17) 196
+14 to 18 path not found
+14 to 19 path not found
+(14 24 26 5 13 2 15 9 12 17 8 20) 246
+14 to 21 path not found
+14 to 22 path not found
+14 to 23 path not found
+(14 24) 22
+14 to 25 path not found
+(14 24 26) 46
+15 to 0 path not found
+15 to 1 path not found
+15 to 2 path not found
+15 to 3 path not found
+15 to 4 path not found
+15 to 5 path not found
+15 to 6 path not found
+15 to 7 path not found
+(15 9 12 17 8) 47
+(15 9) 18
+15 to 10 path not found
+15 to 11 path not found
+(15 9 12) 15
+15 to 13 path not found
+15 to 14 path not found
+15 to 16 path not found
+(15 9 12 17) 30
+15 to 18 path not found
+15 to 19 path not found
+(15 9 12 17 8 20) 80
+15 to 21 path not found
+15 to 22 path not found
+15 to 23 path not found
+15 to 24 path not found
+15 to 25 path not found
+15 to 26 path not found
+16 to 0 path not found
+16 to 1 path not found
+16 to 2 path not found
+16 to 3 path not found
+16 to 4 path not found
+16 to 5 path not found
+16 to 6 path not found
+16 to 7 path not found
+(16 10 9 12 17 8) 109
+(16 10 9) 80
+(16 10) 40
+16 to 11 path not found
+(16 10 9 12) 77
+16 to 13 path not found
+16 to 14 path not found
+(16 10 9 12 17 8 20 15) 143
+(16 10 9 12 17) 92
+16 to 18 path not found
+16 to 19 path not found
+(16 10 9 12 17 8 20) 142
+16 to 21 path not found
+16 to 22 path not found
+16 to 23 path not found
+16 to 24 path not found
+16 to 25 path not found
+16 to 26 path not found
+17 to 0 path not found
+17 to 1 path not found
+17 to 2 path not found
+17 to 3 path not found
+17 to 4 path not found
+17 to 5 path not found
+17 to 6 path not found
+17 to 7 path not found
+(17 8) 17
+(17 8 20 15 9) 69
+17 to 10 path not found
+17 to 11 path not found
+(17 8 20 15 9 12) 66
+17 to 13 path not found
+17 to 14 path not found
+(17 8 20 15) 51
+17 to 16 path not found
+17 to 18 path not found
+17 to 19 path not found
+(17 8 20) 50
+17 to 21 path not found
+17 to 22 path not found
+17 to 23 path not found
+17 to 24 path not found
+17 to 25 path not found
+17 to 26 path not found
+18 to 0 path not found
+18 to 1 path not found
+18 to 2 path not found
+18 to 3 path not found
+18 to 4 path not found
+18 to 5 path not found
+18 to 6 path not found
+(18 7) 48
+(18 7 15 9 12 17 8) 125
+(18 7 15 9) 96
+18 to 10 path not found
+18 to 11 path not found
+(18 7 15 9 12) 93
+18 to 13 path not found
+18 to 14 path not found
+(18 7 15) 78
+18 to 16 path not found
+(18 7 15 9 12 17) 108
+18 to 19 path not found
+(18 7 15 9 12 17 8 20) 158
+18 to 21 path not found
+18 to 22 path not found
+18 to 23 path not found
+18 to 24 path not found
+18 to 25 path not found
+18 to 26 path not found
+19 to 0 path not found
+19 to 1 path not found
+19 to 2 path not found
+19 to 3 path not found
+19 to 4 path not found
+19 to 5 path not found
+19 to 6 path not found
+19 to 7 path not found
+(19 8) 34
+(19 8 20 15 9) 86
+19 to 10 path not found
+19 to 11 path not found
+(19 8 20 15 9 12) 83
+19 to 13 path not found
+19 to 14 path not found
+(19 8 20 15) 68
+19 to 16 path not found
+(19 8 20 15 9 12 17) 98
+19 to 18 path not found
+(19 8 20) 67
+19 to 21 path not found
+19 to 22 path not found
+19 to 23 path not found
+19 to 24 path not found
+19 to 25 path not found
+19 to 26 path not found
+20 to 0 path not found
+20 to 1 path not found
+20 to 2 path not found
+20 to 3 path not found
+20 to 4 path not found
+20 to 5 path not found
+20 to 6 path not found
+20 to 7 path not found
+(20 15 9 12 17 8) 48
+(20 15 9) 19
+20 to 10 path not found
+20 to 11 path not found
+(20 15 9 12) 16
+20 to 13 path not found
+20 to 14 path not found
+(20 15) 1
+20 to 16 path not found
+(20 15 9 12 17) 31
+20 to 18 path not found
+20 to 19 path not found
+20 to 21 path not found
+20 to 22 path not found
+20 to 23 path not found
+20 to 24 path not found
+20 to 25 path not found
+20 to 26 path not found
+21 to 0 path not found
+21 to 1 path not found
+21 to 2 path not found
+21 to 3 path not found
+21 to 4 path not found
+21 to 5 path not found
+21 to 6 path not found
+21 to 7 path not found
+(21 20 15 9 12 17 8) 88
+(21 20 15 9) 59
+21 to 10 path not found
+21 to 11 path not found
+(21 20 15 9 12) 56
+21 to 13 path not found
+21 to 14 path not found
+(21 20 15) 41
+21 to 16 path not found
+(21 20 15 9 12 17) 71
+21 to 18 path not found
+21 to 19 path not found
+(21 20) 40
+21 to 22 path not found
+21 to 23 path not found
+21 to 24 path not found
+21 to 25 path not found
+21 to 26 path not found
+22 to 0 path not found
+22 to 1 path not found
+22 to 2 path not found
+22 to 3 path not found
+22 to 4 path not found
+22 to 5 path not found
+22 to 6 path not found
+22 to 7 path not found
+(22 10 9 12 17 8) 89
+(22 10 9) 60
+(22 10) 20
+22 to 11 path not found
+(22 10 9 12) 57
+22 to 13 path not found
+22 to 14 path not found
+(22 10 9 12 17 8 20 15) 123
+22 to 16 path not found
+(22 10 9 12 17) 72
+22 to 18 path not found
+22 to 19 path not found
+(22 10 9 12 17 8 20) 122
+22 to 21 path not found
+22 to 23 path not found
+22 to 24 path not found
+22 to 25 path not found
+22 to 26 path not found
+23 to 0 path not found
+23 to 1 path not found
+(23 24 26 5 13 2) 134
+23 to 3 path not found
+23 to 4 path not found
+(23 24 26 5) 55
+23 to 6 path not found
+23 to 7 path not found
+(23 24 26 5 13 2 15 9 12 17 8) 182
+(23 24 26 5 13 2 15 9) 153
+23 to 10 path not found
+23 to 11 path not found
+(23 24 26 5 13 2 15 9 12) 150
+(23 24 26 5 13) 88
+23 to 14 path not found
+(23 24 26 5 13 2 15) 135
+23 to 16 path not found
+(23 24 26 5 13 2 15 9 12 17) 165
+23 to 18 path not found
+23 to 19 path not found
+(23 24 26 5 13 2 15 9 12 17 8 20) 215
+23 to 21 path not found
+23 to 22 path not found
+(23 24) -9
+23 to 25 path not found
+(23 24 26) 15
+24 to 0 path not found
+24 to 1 path not found
+(24 26 5 13 2) 143
+24 to 3 path not found
+24 to 4 path not found
+(24 26 5) 64
+24 to 6 path not found
+24 to 7 path not found
+(24 26 5 13 2 15 9 12 17 8) 191
+(24 26 5 13 2 15 9) 162
+24 to 10 path not found
+24 to 11 path not found
+(24 26 5 13 2 15 9 12) 159
+(24 26 5 13) 97
+24 to 14 path not found
+(24 26 5 13 2 15) 144
+24 to 16 path not found
+(24 26 5 13 2 15 9 12 17) 174
+24 to 18 path not found
+24 to 19 path not found
+(24 26 5 13 2 15 9 12 17 8 20) 224
+24 to 21 path not found
+24 to 22 path not found
+24 to 23 path not found
+24 to 25 path not found
+(24 26) 24
+25 to 0 path not found
+(25 1) 21
+(25 1 23 24 26 5 13 2) 194
+25 to 3 path not found
+25 to 4 path not found
+(25 1 23 24 26 5) 115
+25 to 6 path not found
+25 to 7 path not found
+(25 1 23 24 26 5 13 2 15 9 12 17 8) 242
+(25 1 23 24 26 5 13 2 15 9) 213
+25 to 10 path not found
+25 to 11 path not found
+(25 1 23 24 26 5 13 2 15 9 12) 210
+(25 1 23 24 26 5 13) 148
+25 to 14 path not found
+(25 1 23 24 26 5 13 2 15) 195
+25 to 16 path not found
+(25 1 23 24 26 5 13 2 15 9 12 17) 225
+25 to 18 path not found
+25 to 19 path not found
+(25 1 23 24 26 5 13 2 15 9 12 17 8 20) 275
+25 to 21 path not found
+25 to 22 path not found
+(25 1 23) 60
+(25 1 23 24) 51
+(25 1 23 24 26) 75
+26 to 0 path not found
+26 to 1 path not found
+(26 5 13 2) 119
+26 to 3 path not found
+26 to 4 path not found
+(26 5) 40
+26 to 6 path not found
+26 to 7 path not found
+(26 5 13 2 15 9 12 17 8) 167
+(26 5 13 2 15 9) 138
+26 to 10 path not found
+26 to 11 path not found
+(26 5 13 2 15 9 12) 135
+(26 5 13) 73
+26 to 14 path not found
+(26 5 13 2 15) 120
+26 to 16 path not found
+(26 5 13 2 15 9 12 17) 150
+26 to 18 path not found
+26 to 19 path not found
+(26 5 13 2 15 9 12 17 8 20) 200
+26 to 21 path not found
+26 to 22 path not found
+26 to 23 path not found
+26 to 24 path not found
+26 to 25 path not found

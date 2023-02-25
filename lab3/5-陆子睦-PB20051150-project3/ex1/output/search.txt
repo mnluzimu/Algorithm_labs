@@ -1,0 +1,12 @@
+the interval:
+19 22
+result:
+21 22
+the interval:
+26 27
+result:
+not found
+the interval:
+47 49
+result:
+40 49
